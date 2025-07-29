@@ -5,7 +5,7 @@ A FastAPI-based chatbot application for managing food orders through Dialogflow 
 ## 🚀 Features
 
 [old README content]
-# 🍽️ Mishraji Eatery - Food Ordering Chatbot
+# 🍽️ Pandeyji Eatery - Food Ordering Chatbot
 
 A modern, interactive food ordering chatbot built with FastAPI. Includes a beautiful web interface, smart order management, and demo mode for instant testing.
 
