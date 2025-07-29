@@ -1,0 +1,4 @@
+
+
+uvicorn main:app --reload ( this is for run the code )
+
